@@ -16,6 +16,11 @@ package com.algs.learn.leetcode.twopointer;
  */
 public class TwoSum {
     public int[] twoSum(int[] numbers, int target) {
-        return null;
+        if (numbers == null){
+            return null;
+        }
+        int i = 0;
+        int j = numbers.length - 1;
+        for(int i)
     }
 }
